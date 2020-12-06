@@ -108,6 +108,9 @@ venv.bak/
 /site
 
 # mypy
+*.bak.py
+.DS_Store
+**/.DS_Store
 .mypy_cache/
 .dmypy.json
 dmypy.json

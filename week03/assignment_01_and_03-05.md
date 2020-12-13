@@ -69,4 +69,4 @@
 
 这里直接引用即刻时间陈旸老师「SQL必知必会」 [23丨索引的概览：用还是不用索引，这是一个问题](https://time.geekbang.org/column/article/112023)
 
-![SQL必知必会_23丨索引的概览：用还是不用索引，这是一个问题](/Users/zhangjinlei/Python005-01/week03/SQL必知必会_23丨索引的概览：用还是不用索引，这是一个问题.jpg)
+![jpg](https://github.com/Zhang-Jinlei/Python005-01/blob/main/week03/SQL必知必会_23丨索引的概览：用还是不用索引，这是一个问题.jpg?raw=true)

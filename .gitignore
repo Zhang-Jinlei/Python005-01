@@ -124,6 +124,10 @@ dmypy.json
 #IDE metadata
 **.idea/**
 
+#python_demo
+
+pythontrain/**
+
 #Bash files
 run.sh
 

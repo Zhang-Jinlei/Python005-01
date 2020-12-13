@@ -4,7 +4,7 @@
 
 ## 1、
 
-|                                                  |
+|  ###                                             |
 | :----------------------------------------------- |
 | CREATE DATABASE testdb;                          |
 | SHOW VARIABLES LIKE '%character%';               |

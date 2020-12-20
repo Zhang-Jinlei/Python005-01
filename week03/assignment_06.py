@@ -12,7 +12,7 @@ from sqlalchemy import Table, Column, Integer, String, Float, DateTime, ForeignK
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 from datetime import datetime
-from dbconfig import read_db_config
+from .dbconfig import read_db_config
 import sys
 
 Base = declarative_base()

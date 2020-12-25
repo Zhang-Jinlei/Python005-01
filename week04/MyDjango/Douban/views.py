@@ -42,13 +42,21 @@ def _insert(**kwargs):
 
 
 def get_star(star):
-    if star == '力荐':
-        return 5
-    elif star == '推荐':
-        return 4
-    elif star == '还行':
-        return 3
-    elif star == '较差':
-        return 2
-    elif star == '很差':
-        return 1
+    return {
+        '力荐': 5,
+        '推荐': 4,
+        '还行': 3,
+        '较差': 2,
+        '很差': 1,
+    }[star]
+
+    # if star == '力荐':
+    #     return 5
+    # elif star == '推荐':
+    #     return 4
+    # elif star == '还行':
+    #     return 3
+    # elif star == '较差':
+    #     return 2
+    # elif star == '很差':
+    #     return 1
